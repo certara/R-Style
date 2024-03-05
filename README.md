@@ -2,7 +2,7 @@
 
 ## Using the library
 
-To use certaracss, simply load the library within an R markdown chunk that includes the option `results='asis'`. 
+To use `Certara.StyleR`, simply load the library within an R markdown chunk that includes the option `results='asis'`. 
 This will print the certara logo at the top and also provide access to the following three texts:
 
 - summary
@@ -26,7 +26,7 @@ If the package isn't working as expected, please first check that you are loadin
 
 ````
 ```{r results='asis'}
-library(certaracss)
+library(Certara.StyleR)
 ```
 ````
 
@@ -38,12 +38,12 @@ To install (and verify that installation worked) run the code below in R.
 
 ```
 library(devtools)
-devtools::install_github("pseastham-certara/certaracss")
-library(certaracss)
+devtools::install_github("certara/R-Style")
+library(Certara.StyleR)
 ```
 
 To uninstall, use the following:
 
 ```
-remove.packages("certaracss")
+remove.packages("Certara.StyleR")
 ```
