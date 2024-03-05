@@ -10,7 +10,7 @@ Depends:
 Imports:
     htmltools,
     readr
-License: MIT
+License: GPL (>= 2)
 Encoding: UTF-8
 LazyData: true
 StagedInstall: no
