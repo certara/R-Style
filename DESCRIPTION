@@ -1,4 +1,4 @@
-Package: certaracss
+Package: Certara.StyleR
 Type: Package
 Title: Loads Certara CSS and Logos for R Markdown
 Version: 0.1.0
