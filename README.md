@@ -1,4 +1,4 @@
-# certaracss
+# Certara.StyleR
 
 ## Using the library
 
